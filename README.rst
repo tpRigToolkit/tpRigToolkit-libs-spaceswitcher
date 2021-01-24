@@ -1,7 +1,7 @@
 # tpRigToolkit-libs-spaceswitcher
 ============================================================
 
-Library that contains utils functions and classes for Ziva
+Library that contains library to create space switch setups.
 
 .. image:: https://travis-ci.com/tpRigToolkit/tpRigToolkit-libs-spaceswitcher.svg?branch=master&kill_cache=1
     :target: https://travis-ci.com/tpRigToolkit/tpRigToolkit-libs-spaceswitcher
