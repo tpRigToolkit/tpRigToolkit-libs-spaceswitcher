@@ -1,0 +1,3 @@
+include versioneer.py
+include tpRigToolkit/libs/spaceswitcher/__logging__.ini
+include tpRigToolkit/libs/spaceswitcher/_version.py
